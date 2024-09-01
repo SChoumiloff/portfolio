@@ -122,7 +122,7 @@ export default function AboutSection() {
                         </DockIcon>
                         <DockIcon
                           text="Young vice-Champion of France of the 200m Butterfly -
-                          Short course (2018"
+                          Short course (2018)"
                           delay={700}
                         >
                           <Trophy className="h-6 w-6 text-gray-800 dark:text-gray-400" />

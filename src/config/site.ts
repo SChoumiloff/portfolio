@@ -3,7 +3,7 @@ export const siteConfig = {
   url: "https://dataelevation.dev",
   ogImage: "https://localhost/logo.png",
   description:
-    "Portfolio of Sacha Choumiloff, a data and AI engineer currently working at Laforge.",
+    "Portfolio of Sacha Choumiloff, a data and AI engineer currently working at Credit Agricole Champagne Bourgogne.",
   links: {
     twitter: "https://x.com/SachaChoumiloff",
     github: "https://github.com/SChoumiloff",
